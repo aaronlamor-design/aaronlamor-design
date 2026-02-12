@@ -8,13 +8,9 @@ Hello, Everyone! I'm Aaron
 HTML CSS JavaScript React
 
 Connect with me
-LinkedIn • My Scrimba Profile
+[LinkedIn](https://www.linkedin.com/in/aaron-lamoreaux-285806205/) • [My Scrimba Profile](https://scrimba.com/u42d37b8)
 
-if you want to learn coding sign up here: https://scrimba.com/?via=u42d37b8 and get 20% Discount off your pro Scrimba subscription
-
-
-💬 Let's Connect!
-Feel free to reach out if you want to chat about the Scrimbassador program or Just want to chat.
+if you want to learn coding i do recommend by clicking [here and signning up at Scrimba](https://scrimba.com/?via=u42d37b8). if you follow this link you'll get a 20% Discount off your pro Scrimba subscription
 
 <!--
 **aaronlamor-design/aaronlamor-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
