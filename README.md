@@ -7,8 +7,8 @@ Hello, Everyone! I'm Aaron
 🛠️ My Toolkit
 HTML CSS JavaScript React
 
-Connect with me
-[LinkedIn](https://www.linkedin.com/in/aaron-lamoreaux-285806205/) • [My Scrimba Profile](https://scrimba.com/u42d37b8)
+💬 Connect with me @
+[MyLinkedIn](https://www.linkedin.com/in/aaron-lamoreaux-285806205/) • [My Scrimba Profile](https://scrimba.com/u42d37b8)
 
 if you want to learn coding i do recommend by clicking [here and signning up at Scrimba](https://scrimba.com/?via=u42d37b8). if you follow this link you'll get a 20% Discount off your pro Scrimba subscription
 
