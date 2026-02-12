@@ -1,4 +1,5 @@
 Hello, Everyone! I'm Aaron
+
 👩🏻‍💼 What I do: I'm currently unemployed and looking to get into Web development. I've learned my coding through BYUI and Scrimba in which i have signed up as a Scrimbabassador.
 
 🧩 Tech I'm using: HTML, CSS, JavaScript, React
