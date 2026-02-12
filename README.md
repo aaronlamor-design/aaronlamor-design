@@ -10,7 +10,7 @@ HTML CSS JavaScript React
 💬 Connect with me @
 [MyLinkedIn](https://www.linkedin.com/in/aaron-lamoreaux-285806205/) • [My Scrimba Profile](https://scrimba.com/u42d37b8)
 
-if you want to learn coding i do recommend by clicking [here and signning up at Scrimba](https://scrimba.com/?via=u42d37b8). if you follow this link you'll get a 20% Discount off your pro Scrimba subscription
+if you want to learn coding I do recommend by clicking [here and signning up at Scrimba](https://scrimba.com/?via=u42d37b8). if you follow this link you'll get a 20% Discount off your pro Scrimba subscription
 
 <!--
 **aaronlamor-design/aaronlamor-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
