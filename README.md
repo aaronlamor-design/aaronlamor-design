@@ -4,7 +4,10 @@
 I'm currently unemployed and looking to get into Web development. I've learned my coding through BYUI and Scrimba in which i have signed up as a Scrimbabassador.
 
 ## 🛠️ My Toolkit:
-HTML CSS JavaScript React
+HTML CSS JavaScript Nodejs Nodejs-Express
+
+## 🧐 Currently Learning:
+[The Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack:about) • [Frontend Path](https://scrimba.com/frontend-path-c0j) • [Learn React](https://scrimba.com/learn-react-c0e)
 
 ## 💬 Connect with me @:
 [MyLinkedIn](https://www.linkedin.com/in/aaron-lamoreaux-285806205/) • [My Scrimba Profile](https://scrimba.com/u42d37b8)
